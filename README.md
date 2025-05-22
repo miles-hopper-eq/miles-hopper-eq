@@ -7,5 +7,5 @@ Welcome to my GitHub! I'm a Senior Data Engineer in the Data Services Team at Eq
 - Tools: Temporal, DBT, Dagster, AWS
 
 ## 📊 GitHub Stats
-![miles-hopper-eq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miles-hopper-eq&theme=vue-dark&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles-hopper-eq&theme=2077)
 

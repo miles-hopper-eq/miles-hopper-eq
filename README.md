@@ -9,3 +9,4 @@ Welcome to my GitHub! I'm a Senior Data Engineer in the Data Services Team at Eq
 ## 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles-hopper-eq&theme=2077)
 
+![](https://github-readme-streak-stats.herokuapp.com?user=miles-hopper-eq&theme=dark)
